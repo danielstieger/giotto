@@ -11,6 +11,28 @@
     </projectModules>
     <genConfs />
   </component>
+  <component name="ProjectLibraryManager">
+    <option name="libraries">
+      <map>
+        <entry key="mbeddrcore">
+          <value>
+            <Library>
+              <option name="name" value="mbeddrcore" />
+              <option name="path" value="${mbeddr.github.core.home}/code/languages/com.mbeddr.core" />
+            </Library>
+          </value>
+        </entry>
+        <entry key="mpsutil">
+          <value>
+            <Library>
+              <option name="name" value="mpsutil" />
+              <option name="path" value="${mbeddr.github.core.home}/code/languages/com.mbeddr.mpsutil" />
+            </Library>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="ProjectModuleManager">
     <modules />
   </component>

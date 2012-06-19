@@ -8,5 +8,8 @@
   <usedLanguages>
     <usedLanguage>4e84a260-ec93-4358-bc51-853817ed34fb(at.bachmann.giotto)</usedLanguage>
   </usedLanguages>
+  <usedDevKits>
+    <usedDevKit>d2a9c55c-6bdc-4cc2-97e1-4ba7552f5584(com.mbeddr.core)</usedDevKit>
+  </usedDevKits>
 </solution>
 
